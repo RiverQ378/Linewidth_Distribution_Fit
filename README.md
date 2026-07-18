@@ -40,11 +40,11 @@ A standalone desktop application for linewidth experimental data analysis — en
 
 ​		Smaller values (e.g., 100) speed up processing but may reduce accuracy.
    
-   The integer specified in the “Gauss Deg” input box defines the integration order used for the calculation.
+   The integer specified in the ***"Gauss Deg"*** input box defines the integration order used for the calculation.
 
-      The default value is 40 and usually does not need to be changed.
+   The default value is 40 and usually does not need to be changed.
 
-      If noticeable local fluctuations appear in the fitted curve, the value can be increased accordingly (e.g., 100).
+   If noticeable local fluctuations appear in the fitted curve, the value can be increased accordingly (e.g., 100).
 
 4. Run Parameter Search
 
