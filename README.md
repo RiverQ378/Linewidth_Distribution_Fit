@@ -32,19 +32,19 @@ A standalone desktop application for linewidth experimental data analysis — en
 
 3. Set Intensity Parameter
 
-​	1. Enter an integer in the ***"Intensity"*** input box (default value: 200):
+    1. Enter an integer in the ***"Intensity"*** input box (default value: 200):
 
-​	This value controls the iteration count for Bayesian optimization.
+        This value controls the iteration count for Bayesian optimization.
 
-​	Larger values (e.g., 300-500) improve fitting precision but increase runtime.
+        Larger values (e.g., 300-500) improve fitting precision but increase runtime.
 
-​	Smaller values (e.g., 100) speed up processing but may reduce accuracy.
-   
-   2. The integer specified in the ***"Gauss Deg"*** input box defines the integration order used for the calculation.
+        Smaller values (e.g., 100) speed up processing but may reduce accuracy.
 
-   The default value is 40 and usually does not need to be changed.
+    2. The integer specified in the ***"Gauss Deg"*** input box defines the integration order used for the calculation.
 
-   If noticeable local fluctuations appear in the fitted curve, the value can be increased accordingly (e.g., 100).
+        The default value is 40 and usually does not need to be changed.
+
+        If noticeable local fluctuations appear in the fitted curve, the value can be increased accordingly (e.g., to 100).
 
 4. Run Parameter Search
 
