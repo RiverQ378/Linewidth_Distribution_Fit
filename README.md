@@ -8,7 +8,7 @@ A standalone desktop application for linewidth experimental data analysis — en
 
 1. Launch the Application
 
-​	Locate the compiled executable file (`line.exe`) in your directory.
+​	Locate the compiled executable file (`linewidth_finalversion1.exe`) in your directory.
 
 ​	Double-click the file to launch the application (no Python environment required).
 
@@ -39,6 +39,12 @@ A standalone desktop application for linewidth experimental data analysis — en
 ​		Larger values (e.g., 300-500) improve fitting precision but increase runtime.
 
 ​		Smaller values (e.g., 100) speed up processing but may reduce accuracy.
+   
+   The integer specified in the “Gauss Deg” input box defines the integration order used for the calculation.
+
+      The default value is 40 and usually does not need to be changed.
+
+      If noticeable local fluctuations appear in the fitted curve, the value can be increased accordingly (e.g., 100).
 
 4. Run Parameter Search
 
