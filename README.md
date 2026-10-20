@@ -1,3 +1,13 @@
+## ⚠️ Notice: Software Update in Progress
+
+**The software is currently undergoing updates and improvements. Public downloads have been temporarily suspended.**
+
+An updated version will be released once the development and testing process is complete.
+
+Thank you for your patience and understanding.
+
+---
+
 # Linewidth Parameter Search System
 
 (Standalone Desktop Application User Guide)
